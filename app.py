@@ -62,7 +62,7 @@ def uploadImage(key):
 
 def averageFilter():
 
-    st.header("Average Filter")
+    st.header("Average Filter Created by Mayur Gadhave(Roll No 172)")
 
     img = uploadImage(0)
 
